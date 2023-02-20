@@ -5,6 +5,6 @@ You need to add your own connectionString to appsetting.json.
 
 You can download it here: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
-Add Project Table with ProjectId and name column
-Feedback Table with FeedbackId, FeedbackTitle and FeedbackMessage columns
-and ProjectFeedback table RowId ProjectId and FeedbackId columns to database. 
+Add Project Table with ProjectId and name columns.
+Feedback Table with FeedbackId, FeedbackTitle and FeedbackMessage columns.
+ProjectFeedback table RowId ProjectId and FeedbackId columns to database. 
